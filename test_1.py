@@ -6,3 +6,11 @@ print(" Amit")
 list_names=["name_1","name_2","name_3"]
 for i in list_names:
     print("Name :", i)
+
+
+
+
+
+
+
+
